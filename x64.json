@@ -1,5 +1,5 @@
 [{
-    "Value": "32c984c9410f44c4448be0e9********488d0d",
+    "Value": "41bc000000e041bd01000000493bc47555488d0d",
     "ASMSignature": true,
     "Key": "TARGET",
     "Notes": [],
@@ -11,7 +11,7 @@
     "Notes": [],
     "PointerPath": [0, 0, 48, 908]
 }, {
-    "Value": "488b03488bcbff90a0000000888391000000488d0d",
+    "Value": "488b420848c1e8033da701000077248bc0488d0d",
     "ASMSignature": true,
     "Key": "CHARMAP",
     "Notes": [],
